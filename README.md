@@ -9,7 +9,11 @@ It is possible to sort the list by the attributes of the items via an instance o
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity.
-The user can sort the shopping list in ascending alphabetical order or by the quantity of the items.
+The user can sort the shopping list in ascending alphabetical order or by the quantity of the items. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
